@@ -21,10 +21,4 @@ URL : https://kjhohura24.github.io/KhadijahsPortfolio/
 
 URL : https://github.com/Kjhohura24/KhadijahsPortfolio/tree/main/04-responsive-portfolio-lesson/challenge/starter
 
-<<<<<<< HEAD
 screenshot: https://user-images.githubusercontent.com/94381423/279487521-6647df12-61de-4805-b570-ac904e794878.png screenshot 2: https://user-images.githubusercontent.com/94381423/279487734-28ec593d-8e48-44ca-81b3-a480cc3c75c7.png
-=======
-screenshot: https://user-images.githubusercontent.com/94381423/279487521-6647df12-61de-4805-b570-ac904e794878.png
-screenshot 2: https://user-images.githubusercontent.com/94381423/279487734-28ec593d-8e48-44ca-81b3-a480cc3c75c7.png
-
->>>>>>> refs/remotes/origin/main
