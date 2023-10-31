@@ -100,26 +100,7 @@ h2 {
 
 }
 
-.leftside {
-  height: 100vh;
-  width: 20%;
-  float: left;
-  color: #13293d;
-  background-color: #fdb0b0;
-  font: 1.5rem;
-  font-family: "Lucida Console", "Courier New", monospace;
-  font-style: normal;
 
-
-}
-
-.rightside {
-  height: 100vh;
-  width: 80%;
-  float: right;
-  color: #13293d;
-  background-color: #fbd7d7;
-}
 
 h3 {
   font-size: medium;
@@ -164,16 +145,11 @@ h6 {
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
-
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
-
-
-
-
 
 .footer {
   background-color: #cc4545;
@@ -198,9 +174,4 @@ h6 {
   color: rgb(120, 21, 4);
 }
 
-article {
-  float: right;
-  width: 75%;
-  background-color: #f1f1f1;
-  height: 100%; /* only for demonstration, should be removed */
-}
+
