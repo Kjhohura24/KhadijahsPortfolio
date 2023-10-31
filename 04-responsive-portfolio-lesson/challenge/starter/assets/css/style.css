@@ -24,6 +24,8 @@ body {
   display: flex;
   flex-direction: column;
   line-height: 0.3;
+  background: #f8e8e8;
+  
 }
 
 header {
@@ -37,6 +39,12 @@ header {
  
 }
 
+.logo {
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
 h1 { 
   font-size: 150% ;
   font-style: normal;
@@ -70,21 +78,6 @@ nav a:hover {
   color: rgb(120, 21, 4);
 }
 
-
-.main {
-  width: 25%;
-  float: left;
-  padding: 15px;
-}
-
-.menu {
-  width: 25%;
-  float: left;
-  padding: 15px;
-  margin-bottom: 4%;
-  word-spacing: normal;
-}
-
 .container{
   width: 100%;
   height: 10vh;
@@ -93,16 +86,8 @@ nav a:hover {
 .banner{
   width: 100%;
   height: 80vh;
-  background-image:;
   background-size: cover;
   
-}
-h3 {
-  font-size: medium;
-  font-family: "Lucida Console", "Courier New", monospace;
-  margin: -3%;
-  padding: 15px 0;
-  align-items: left;
 }
 
 h2 {
@@ -112,20 +97,101 @@ h2 {
   color: #cc4545;
   margin-left: 1135px;
   margin-top: 32px;
- 
-}
 
+}
 
 .leftside {
   height: 100vh;
   width: 20%;
   float: left;
-  background: #f68a8a;
+  color: #13293d;
+  background-color: #fdb0b0;
+  font: 1.5rem;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-style: normal;
+
+
 }
 
 .rightside {
   height: 100vh;
   width: 80%;
   float: right;
-  background: #f4c9c9;
+  color: #13293d;
+  background-color: #fbd7d7;
+}
+
+h3 {
+  font-size: medium;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin: -3%;
+  padding: 15px 0;
+  align-items: left;
+}
+
+h4 {
+  font-size: medium;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin: -3%;
+  padding: 15px 0;
+  align-items: left;
+}
+
+h6 {
+  font-size: 1.5rem;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-style: normal;
+  color: #cc4545;
+  margin-left: 1135px;
+  margin-top: 32px;
+}
+
+.fakeimg {
+  background-color: #f29898;
+  width: 50%;
+  padding: 20px;
+  margin: 15;
+}
+
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+
+.footer {
+  background-color: #cc4545;
+  display: flex;
+  color:white;
+  text-align: center;
+  align-items: space-between;
+  padding: 30px 80px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  height: 2vh;
+  display: inline-block;
+  margin: 20px;
+}
+
+.footer-links{
+  font-family: "Lucida Console", "Courier New", monospace;
+  font:white;
+  font-size: large;
+}
+
+.footer-links a:hover {
+  color: rgb(120, 21, 4);
+}
+
+article {
+  float: right;
+  width: 75%;
+  background-color: #f1f1f1;
+  height: 100%; /* only for demonstration, should be removed */
 }
