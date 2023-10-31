@@ -4,12 +4,7 @@ The task for this project was to create a Personal Portfolio
 
 It includes: Header, Navigation Bar with link: About me, Contact, CV Banner Image Footer Background
 
-<<<<<<< HEAD
-To complete this project I created a Repositories on Github: KhadijahsPortfolio Public
-=======
-To complete this project I created a Repositories on Github: KhadijahsPortfolio
-Public
->>>>>>> refs/remotes/origin/main
+To complete this project I created a Repositories on Github: KhadijahsPortfolio Public.
 
 Clone the codebase into the repository
 
