@@ -137,25 +137,34 @@ h4 {
   align-items: left;
 }
 
+h5 {
+  font-size: small;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin: ;
+  padding: 15px 0 15px 0;
+  align-items: auto;
+  color: #cc4545;
+  margin-left: 20px;
+}
 h6 {
   font-size: 1.5rem;
   font-family: "Lucida Console", "Courier New", monospace;
   font-style: normal;
   color: #cc4545;
   margin-left: 1135px;
-  margin-top: 32px;
+  margin-top: 55px;
 }
 
 .fakeimg {
   background-color: #f29898;
+  color: white;
   width: 50%;
   padding: 20px;
   margin: 15;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 
-
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
