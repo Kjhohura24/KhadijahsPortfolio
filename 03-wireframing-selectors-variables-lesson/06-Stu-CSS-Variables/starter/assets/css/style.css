@@ -26,6 +26,7 @@ header {
 nav {
   display: flex;
   background-color: #d8a47f;
+  background-image: url();
 }
 
 nav a {
